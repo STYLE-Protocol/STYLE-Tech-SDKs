@@ -1,6 +1,6 @@
 #  👋 Welcome to STYLE SDK Ecosystems 
 <p align="center">
- <img height="200x" src="https://bridge.protocol.style/meditation.webp" alt="Sublime's custom image"/>
+ <img height="200x" src="images/meditation.webp" />
 </p>
 $STYLE SDK empowers developers to build their own applications using STYLE protocol technology. It includes various SDKs, APIs, and examples that make it easy to design and build web3 applications on top of the $STYLE protocol.
 
