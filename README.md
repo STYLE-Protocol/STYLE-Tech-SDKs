@@ -1,4 +1,4 @@
-#  👋 Welcome to STYLE SDK Ecosystems 
+#  👋 Welcome to STYLE Tech SDKs 
 <p align="center">
  <img height="200x" src="images/meditation.webp" />
 </p>
