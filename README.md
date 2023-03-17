@@ -12,7 +12,7 @@ To use $STYLE SDKs ecosystem products you will need the following:-
 1- [STYLE-SDK-WEB](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK): 
 
 <p align="center">
- <img  src="images/web.jpeg" />
+ <img  src="https://files.slack.com/files-tmb/TD34F2TR6-F04UAPCDE2H-2b6c11c10d/style_sdk_node_720.png" />
 </p>
 
 The SDK integrates directly with our main smart contract to provide NFTs and assets from various metaverses using web technology. It supports both direct integration and npm packages. The requirement to integrate is a web page that supports Javascript.
