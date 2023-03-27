@@ -28,7 +28,7 @@ The SDK integrates directly with our main smart contract to provide NFTs and ass
 
 A public API is provided to fetch NFTs and assets from our smart contract, offering fast access for developers to retrieve data directly from the blockchain. It is recommended to use the [STYLE-SDK-WEB](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK) or [STYLE-SDK-Unity](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK-Unity)for full integration with our main smart contract.
 
-4- [SDK-Asset-Bridge-Button](https://www.npmjs.com/package/@style-protocol/sdk-asset-bridge-button):
+4- [SDK-Asset-Bridge-Button](https://github.com/STYLE-Protocol/SDK-Asset-Bridge-Button):
 
 ![alt text](images/STYLEBridgeButton.png)
 
