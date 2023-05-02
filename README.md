@@ -25,7 +25,7 @@ The SDK integrates directly with our main smart contract to provide NFTs and ass
 
 3-[STYLE-SDK-Unreal-Engine](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK-Unreal-Engine):
 
-![alt text](images/STYLESDKUnreal-Engine.png)
+![alt text](images/style___unreal_egine.png)
 
 The SDK integrates directly with our main smart contract to provide NFTs and assets from various metaverses using Unreal-Engine. The requirement to integrate is a simple Unreal-Engine project working or game built using Unreal-Engine.
 
